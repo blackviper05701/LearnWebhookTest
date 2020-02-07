@@ -1,0 +1,2 @@
+clear
+this is the text created via bast create command
